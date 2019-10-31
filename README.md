@@ -1,6 +1,6 @@
 # discoball ESP32 FastLED Board
 
-* Use this hardware at your own risk. I am not responsible if it does not work for you, if you waste money on it, if it catches fire and burns down your home, if your hair falls out or if it causes an election to go sour. I promise no support; you are on your own. *
+*Use this hardware at your own risk. I am not responsible if it does not work for you, if you waste money on it, if it catches fire and burns down your home, if your hair falls out or if it causes an election to go sour. I promise no support; you are on your own.*
 
 ![Discoball](docs/img/discoball-v2-front.jpg) 
 
