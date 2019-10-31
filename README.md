@@ -4,7 +4,7 @@
 
 ![Discoball](docs/img/discoball-v2-front.jpg) 
 
-![schematic](docs/img/schematic-v2.1.jpg)
+![schematic](docs/img/schematic-v2.1.png)
 
 Discoball is a simple printed circuit board intended to run [vendo](https://github.com/romkey/vendo) FastLED-based software with a variety of types of RGB LEDs with built-in controllers, like the WS2812B or APA102. These LEDs usually need to be driven at 5V, so the board includes hardware to
 
